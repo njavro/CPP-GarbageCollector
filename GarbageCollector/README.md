@@ -1,4 +1,4 @@
-# code++ Garbage Collector
+# C++ Garbage Collector
  Add Description...
 
 # Building
@@ -20,6 +20,7 @@ $ ./compiled
 
 
 SOURCES:
-The Art of C++ by Herbert Schildt
+
+The Art of C++ by Herbert Schildt (https://www.amazon.com/Art-C-Herbert-Schildt/dp/0072255129)
 
 Udacity C++ Program repo: https://github.com/udacity/CppND-Garbage-Collector
