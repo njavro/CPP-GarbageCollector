@@ -1,7 +1,5 @@
-# C++ Garbage Collector
- Add Description...
 
-# Building
+# Build
 The `make` script provided
 assumes the GCC compiler, it may be substituted with other adequate compiler by adjusting the `make` script as needed.
 Execute the make script, then run the
